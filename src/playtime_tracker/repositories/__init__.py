@@ -1,0 +1,1 @@
+"""SQLite repositories. One file per aggregate."""
