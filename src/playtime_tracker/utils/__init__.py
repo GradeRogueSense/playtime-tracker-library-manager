@@ -1,0 +1,1 @@
+"""Small pure helpers. No I/O beyond what the name says."""
