@@ -1,0 +1,1 @@
+"""Platform adapters — each store gets its own discovery implementation."""
